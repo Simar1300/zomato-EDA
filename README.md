@@ -7,4 +7,4 @@ Source: Kaggle Zomato Dataset
 Features
 Data Cleaning: Handle missing values, duplicate entries, and perform data transformations.
 Exploratory Data Analysis (EDA): Summary statistics, distribution analysis, and correlation analysis.
-Data Visualization: Generate insightful charts and plots using libraries like Matplotlib, Seaborn, and Plotly.
+Data Visualization: Generate insightful charts and plots using libraries like Pandas, Matplotlib, Seaborn, and Plotly.
